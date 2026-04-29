@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\PacienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Controllers\\PacienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Properties\\Authentication\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Properties\\Authentication\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\MedicoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Controllers\\MedicoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\HistorialClinicoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Controllers\\HistorialClinicoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\CitaMedicaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Controllers\\CitaMedicaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\historial.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Data\\historial.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\API_ClinicaVitali.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\API_ClinicaVitali.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\Medico.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Models\\Medico.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\CitaMedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Models\\CitaMedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\HistorialClinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Models\\HistorialClinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\citas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Data\\citas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\medicos.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Data\\medicos.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\pacientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Data\\pacientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_ClinicaVitali\\Models\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\Medico.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:00:55.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Properties\\Authentication\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Properties\\Authentication\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Properties\\Authentication\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Properties\\Authentication\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:07:34.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "API_ClinicaVitali.csproj",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\API_ClinicaVitali.csproj",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\API_ClinicaVitali.csproj",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\API_ClinicaVitali.csproj",
+              "RelativeToolTip": "API_ClinicaVitali\\API_ClinicaVitali.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T07:13:15.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Program.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Program.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Program.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:24:27.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitaMedicaController.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\CitaMedicaController.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Controllers\\CitaMedicaController.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\CitaMedicaController.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Controllers\\CitaMedicaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:03:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:21:09.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Models\\CitaMedica.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\CitaMedica.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Models\\CitaMedica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:02:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:01:49.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistorialClinicoController.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\HistorialClinicoController.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Controllers\\HistorialClinicoController.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Controllers\\HistorialClinicoController.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Controllers\\HistorialClinicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:05:50.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HistorialClinico.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\HistorialClinico.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Models\\HistorialClinico.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\HistorialClinico.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Models\\HistorialClinico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:05:09.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "historial.json",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\historial.json",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Data\\historial.json",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\historial.json",
+              "RelativeToolTip": "API_ClinicaVitali\\Data\\historial.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T07:05:31.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "citas.json",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\citas.json",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Data\\citas.json",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\citas.json",
+              "RelativeToolTip": "API_ClinicaVitali\\Data\\citas.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T07:02:53.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "medicos.json",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\medicos.json",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Data\\medicos.json",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\medicos.json",
+              "RelativeToolTip": "API_ClinicaVitali\\Data\\medicos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T07:01:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pacientes.json",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\pacientes.json",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Data\\pacientes.json",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Data\\pacientes.json",
+              "RelativeToolTip": "API_ClinicaVitali\\Data\\pacientes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T06:20:43.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "API_ClinicaVitali\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\breyn\\Music\\API_ClinicaVitali\\API_ClinicaVitali\\Models\\Paciente.cs",
+              "RelativeToolTip": "API_ClinicaVitali\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:19:11.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

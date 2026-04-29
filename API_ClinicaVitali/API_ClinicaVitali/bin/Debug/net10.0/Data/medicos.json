@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Jorge",
+    "CedulaProfesional": "234",
+    "Especialidad": "Medico General",
+    "Telefono": "2060-1212",
+    "Correo": "medico@gmail.com",
+    "HorarioConsulta": "12:00",
+    "Estado": "Activo"
+  }
+]

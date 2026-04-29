@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "IdPaciente": 1,
+    "IdMedico": 1,
+    "Fecha": "2026-04-28",
+    "Hora": "10:00",
+    "Especialidad": "Medicina General",
+    "Estado": "Pendiente"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API_ClinicaVitali",
+    "\\API_ClinicaVitali\\Controllers",
+    "\\API_ClinicaVitali\\Data",
+    "\\API_ClinicaVitali\\Models",
+    "\\API_ClinicaVitali\\Properties",
+    "\\API_ClinicaVitali\\Properties\\Authentication"
+  ],
+  "SelectedNode": "\\API_ClinicaVitali\\Controllers\\PacienteController.cs",
+  "PreviewInSolutionExplorer": false
+}
